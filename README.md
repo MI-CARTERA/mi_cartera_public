@@ -10,10 +10,10 @@ Este repositorio es el punto de entrada publico del proyecto: explica como esta 
 
 El proyecto nacio para reemplazar un manejo fragmentado de las finanzas personales: primero una planilla mensual de gastos, despues otra planilla de inversiones, y finalmente la necesidad de relacionar gastos, ahorro, inversiones, cuentas bancarias y metas en un mismo lugar.
 
-De ahi salen las dos decisiones que ordenan todo el diseno:
+De ahi salen las dos decisiones que ordenan todo el diseño:
 
 1. **Entidades relacionadas en vez de hojas sueltas**: movimientos, cajas, gastos fijos y metas se consultan y se cruzan entre si.
-2. **Menos carga manual**: los movimientos entran por PDF del banco, no a mano, y la clasificacion la propone el sistema con revision del usuario.
+2. **Menos carga manual**: los movimientos entran por PDF del banco, no a mano, y la clasificacion la propone el sistema con revisión del usuario.
 
 ## Que permite hacer hoy
 
